@@ -64,7 +64,7 @@ struct easyLoginView: View {
                 NavigationLink {
                     withUsJoinView()
                 } label: {
-                    Text("이메일로 회원 가입")
+                    Text("이메일로 회원가입")
                 }
                 .frame(maxWidth: .infinity)
                 .frame(height: 50)
