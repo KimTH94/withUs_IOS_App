@@ -51,6 +51,7 @@ struct withUsJoinView: View {
             Spacer()
             
         }   // First VStack End
+        // Test
         .navigationBarHidden(true)
         .navigationBarBackButtonHidden(true)
     }
